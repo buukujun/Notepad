@@ -1,0 +1,23 @@
+buildscript {
+    repositories {
+        maven { url 'https://repo.huaweicloud.com/repository/maven/' }  // 相当于 Maven Central
+        maven { url 'https://repo.huaweicloud.com/repository/google/' }  // Google 库镜像
+
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:8.1.2'
+    }
+}
+
+allprojects {
+    repositories {
+        maven { url 'https://repo.huaweicloud.com/repository/maven/' }  // 相当于 Maven Central
+        maven { url 'https://repo.huaweicloud.com/repository/google/' }  // Google 库镜像
+
+        google()
+        mavenCentral()
+    }
+}
+

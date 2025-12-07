@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- 恢复按钮 -->
+    <item android:id="@+id/menu_revert"
+        android:icon="@drawable/ic_menu_revert"
+        android:showAsAction="always"
+        android:title="@string/menu_revert" />
+
+    <!-- 保存按钮 -->
+    <item android:id="@+id/menu_save"
+        android:icon="@drawable/ic_menu_save"
+        android:alphabeticShortcut='s'
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_save" />
+
+    <!-- 删除按钮 -->
+    <item android:id="@+id/menu_delete"
+        android:icon="@drawable/ic_menu_delete"
+        android:showAsAction="ifRoom"
+        android:title="@string/menu_delete" />
+
+    <!-- 新增：导出按钮 -->
+    <item android:id="@+id/menu_export"
+        android:icon="@drawable/ic_menu_save"
+        android:showAsAction="ifRoom|withText"
+        android:title="@string/menu_export" />
+
+</menu>
