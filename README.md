@@ -4,21 +4,26 @@
 ### 1、新建笔记
 （1）在主界面点击红色矩形所示按钮，新建笔记并进入编辑界面
 <img width="511" height="977" alt="img1" src="https://github.com/user-attachments/assets/13995446-6dc2-409a-8ad5-9ab3a2ee6c60" />
+
 （2）进入笔记编辑界面后，可进行笔记标题和内容的输入以及笔记类别的选择
 <img width="508" height="908" alt="img2" src="https://github.com/user-attachments/assets/b31d3363-dd69-4906-982a-0eac4a39a558" />
+
 （3）输入笔记信息后，在编辑界面点击红色矩形所示按钮，便可保存新建的笔记，新建的笔记会显示在主界面上
 <img width="500" height="941" alt="img3" src="https://github.com/user-attachments/assets/910736a1-430a-4760-bd99-a924355dbb75" />
 <img width="502" height="930" alt="img4" src="https://github.com/user-attachments/assets/3f4579be-bc2b-4c46-b916-8384ba1af128" />
 ### 2、编辑笔记
 （1）点击需要编辑的笔记，进入笔记编辑界面
 <img width="501" height="927" alt="img5" src="https://github.com/user-attachments/assets/43e8e20d-0f03-4d62-9bce-174c9e0a51c6" />
+
 （2）修改完笔记内容后，点击保存即可完成笔记修改
 <img width="506" height="933" alt="img6" src="https://github.com/user-attachments/assets/80ef003d-c61f-4c5e-bfae-1133ee267b88" />
+
 （3）如果想放弃修改笔记，点击红色矩形所示按钮即可放弃编辑返回主界面
 <img width="506" height="933" alt="img7" src="https://github.com/user-attachments/assets/327f5aa1-31ff-49ec-8f13-82b1c23e210e" />
 ### 3、删除笔记
 （1）在编辑界面，点击红色矩形所示按钮，跳出选项菜单
 <img width="501" height="943" alt="img8" src="https://github.com/user-attachments/assets/e9474f79-a761-408a-9248-22e4bc66f25a" />
+
 （2）点击delete按键即可删除笔记
 <img width="500" height="1011" alt="img9" src="https://github.com/user-attachments/assets/9207561d-fe16-45d6-97e0-36f9cc961120" />
 ## 二、扩展基本功能
@@ -337,6 +342,7 @@ String selection = null;
 
 (2)输入搜索内容，显示符合条件的笔记
 <img width="513" height="963" alt="img14" src="https://github.com/user-attachments/assets/b84a84ca-7b8e-412a-aee0-ec6af3d4a7d5" />
+
 (3)回删搜素内容至空时，显示所有的笔记
 <img width="516" height="963" alt="img13" src="https://github.com/user-attachments/assets/db958b8b-4f93-469f-bc43-d112f5a983c2" />
 ## 拓展附加功能
@@ -726,8 +732,10 @@ private String mCurrentCategory = "all"; // 当前选中的分类
 #### 3、实现效果界面截图
 (1)用户可在编辑界面选择类别
 <img width="442" height="817" alt="img16" src="https://github.com/user-attachments/assets/480f268d-9d7c-4c47-a3ae-5b31dc27ae74" />
+
 (2)类别会在列表界面显示
 <img width="433" height="811" alt="img17" src="https://github.com/user-attachments/assets/4c6b4958-8794-4b8a-ba3a-e4076d745801" />
+
 (3)在主页可以按照类别进行笔记筛选
 <img width="474" height="900" alt="img18" src="https://github.com/user-attachments/assets/b1878e07-3c52-4e92-9f7f-56b60d6278f9" />
 <img width="486" height="961" alt="img19" src="https://github.com/user-attachments/assets/809b0a52-b965-47ec-a50e-f02ef84fa4f6" />
@@ -1010,8 +1018,10 @@ private String mCurrentCategory = "all"; // 当前选中的分类
 #### 3、实现效果界面截图
 （1）进入所需要导出的笔记中，点击导出按钮
 <img width="451" height="855" alt="img20" src="https://github.com/user-attachments/assets/1ff60aad-68af-4c28-a26e-e5bee0a8be62" />
+
 （2）选择导出类型
 <img width="430" height="837" alt="img21" src="https://github.com/user-attachments/assets/3eb53906-3b2a-437d-bea6-51badb7786bc" />
+
 （3）底部会跳出保存成功的提示和位置
 <img width="438" height="903" alt="img22" src="https://github.com/user-attachments/assets/060f67f2-f6ea-4748-b07c-441dbcfe65b9" />
 
