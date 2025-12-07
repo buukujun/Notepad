@@ -3,24 +3,24 @@
 ## 一、基本应用的功能
 ### 1、新建笔记
 （1）在主界面点击红色矩形所示按钮，新建笔记并进入编辑界面
-
+<img width="511" height="977" alt="img1" src="https://github.com/user-attachments/assets/13995446-6dc2-409a-8ad5-9ab3a2ee6c60" />
 （2）进入笔记编辑界面后，可进行笔记标题和内容的输入以及笔记类别的选择
-<img width="511" height="977" alt="img1" src="https://github.com/user-attachments/assets/602d5763-1a6d-4917-abc7-ca51ce736a62" />
+<img width="508" height="908" alt="img2" src="https://github.com/user-attachments/assets/b31d3363-dd69-4906-982a-0eac4a39a558" />
 （3）输入笔记信息后，在编辑界面点击红色矩形所示按钮，便可保存新建的笔记，新建的笔记会显示在主界面上
-![图片3](images/img3.png)
-![图片4](images/img4.png)
+<img width="500" height="941" alt="img3" src="https://github.com/user-attachments/assets/910736a1-430a-4760-bd99-a924355dbb75" />
+<img width="502" height="930" alt="img4" src="https://github.com/user-attachments/assets/3f4579be-bc2b-4c46-b916-8384ba1af128" />
 ### 2、编辑笔记
 （1）点击需要编辑的笔记，进入笔记编辑界面
-![图片5](images/img5.png)
+<img width="501" height="927" alt="img5" src="https://github.com/user-attachments/assets/43e8e20d-0f03-4d62-9bce-174c9e0a51c6" />
 （2）修改完笔记内容后，点击保存即可完成笔记修改
-![图片6](images/img6.png)
+<img width="506" height="933" alt="img6" src="https://github.com/user-attachments/assets/80ef003d-c61f-4c5e-bfae-1133ee267b88" />
 （3）如果想放弃修改笔记，点击红色矩形所示按钮即可放弃编辑返回主界面
-![图片7](images/img7.png)
+<img width="506" height="933" alt="img7" src="https://github.com/user-attachments/assets/327f5aa1-31ff-49ec-8f13-82b1c23e210e" />
 ### 3、删除笔记
 （1）在编辑界面，点击红色矩形所示按钮，跳出选项菜单
-![图片8](images/img8.png)
+<img width="501" height="943" alt="img8" src="https://github.com/user-attachments/assets/e9474f79-a761-408a-9248-22e4bc66f25a" />
 （2）点击delete按键即可删除笔记
-![图片9](images/img9.png)
+<img width="500" height="1011" alt="img9" src="https://github.com/user-attachments/assets/9207561d-fe16-45d6-97e0-36f9cc961120" />
 ## 二、扩展基本功能
 ### （一）.笔记条目增加时间戳，内容预览，类别显示和图标
 #### 1、功能要求
@@ -241,9 +241,9 @@ return false;
 ```
 #### 实现效果界面截图
 (1)创建笔记时显示创建时间
-![图片10](images/img10.png)
+<img width="519" height="965" alt="img10" src="https://github.com/user-attachments/assets/4e191c7b-84d6-424e-87f0-90f987654d8d" />
 (2)修改笔记后显示的时间更新为最新修改的时间
-![图片11](images/img11.png)
+<img width="525" height="988" alt="img11" src="https://github.com/user-attachments/assets/74fe3735-07a7-4941-bf1e-d94273758f14" />
 ### .笔记查询功能（按标题查询）
 #### 1、功能要求
 点击搜索按钮，进行搜索界面。初始状态的搜索界面显示所有笔记条目。在输入搜索内容或回删一部分搜索内容后，系统根据输入内容和笔记的标题进行字符串匹配，刷新符合要求的笔记显示在笔记列表上，后续如果回删搜索内容至为空后，显示所有的笔记
@@ -332,12 +332,13 @@ String selection = null;
 ```
 #### 3、实现效果界面截图
 (1)点击搜索按钮进入搜索界面
-![图片12](images/img12.png)
-![图片13](images/img13.png)
+<img width="518" height="965" alt="img12" src="https://github.com/user-attachments/assets/ff4dc8d4-c2c9-4773-9ce6-6fe7b4aa05cf" />
+<img width="516" height="963" alt="img13" src="https://github.com/user-attachments/assets/5cb76966-3b05-4a28-b262-dca59676e542" />
+
 (2)输入搜索内容，显示符合条件的笔记
-![图片14](images/img14.png)
+<img width="513" height="963" alt="img14" src="https://github.com/user-attachments/assets/b84a84ca-7b8e-412a-aee0-ec6af3d4a7d5" />
 (3)回删搜素内容至空时，显示所有的笔记
-![图片13](images/img13.png)
+<img width="516" height="963" alt="img13" src="https://github.com/user-attachments/assets/db958b8b-4f93-469f-bc43-d112f5a983c2" />
 ## 拓展附加功能
 ### （一）UI美化
 #### 1、功能要求
@@ -346,7 +347,7 @@ String selection = null;
 该部分在添加时间戳部分已进行详细介绍
 #### 3、实现效果界面截图
 （1）页面效果
-![图片15](images/img15.png)
+<img width="517" height="961" alt="img15" src="https://github.com/user-attachments/assets/2b4526cd-49d6-44fc-a40c-31f131206cc1" />
 ### （一）添加分类
 #### 1、功能要求
 不同的笔记可以设置为不同的分类，类别会在列表中显示，可以根据类别进行笔记筛选
@@ -724,12 +725,12 @@ private String mCurrentCategory = "all"; // 当前选中的分类
 ```
 #### 3、实现效果界面截图
 (1)用户可在编辑界面选择类别
-![图片16](images/img16.png)
+<img width="442" height="817" alt="img16" src="https://github.com/user-attachments/assets/480f268d-9d7c-4c47-a3ae-5b31dc27ae74" />
 (2)类别会在列表界面显示
-![图片17](images/img17.png)
+<img width="433" height="811" alt="img17" src="https://github.com/user-attachments/assets/4c6b4958-8794-4b8a-ba3a-e4076d745801" />
 (3)在主页可以按照类别进行笔记筛选
-![图片18](images/img18.png)
-![图片19](images/img19.png)
+<img width="474" height="900" alt="img18" src="https://github.com/user-attachments/assets/b1878e07-3c52-4e92-9f7f-56b60d6278f9" />
+<img width="486" height="961" alt="img19" src="https://github.com/user-attachments/assets/809b0a52-b965-47ec-a50e-f02ef84fa4f6" />
 ### （三）导出笔记
 #### 1、功能要求
 笔记可以被以JSON、CSV、TXT格式导出，并保存到手机的“下载”文件夹中
@@ -1008,11 +1009,12 @@ private String mCurrentCategory = "all"; // 当前选中的分类
 ```
 #### 3、实现效果界面截图
 （1）进入所需要导出的笔记中，点击导出按钮
-![图片20.png](images/img20.png)
+<img width="451" height="855" alt="img20" src="https://github.com/user-attachments/assets/1ff60aad-68af-4c28-a26e-e5bee0a8be62" />
 （2）选择导出类型
-![图片21.png](images/img21.png)
+<img width="430" height="837" alt="img21" src="https://github.com/user-attachments/assets/3eb53906-3b2a-437d-bea6-51badb7786bc" />
 （3）底部会跳出保存成功的提示和位置
-![图片22.png](images/img22.png)
+<img width="438" height="903" alt="img22" src="https://github.com/user-attachments/assets/060f67f2-f6ea-4748-b07c-441dbcfe65b9" />
+
 
 
 
