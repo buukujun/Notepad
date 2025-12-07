@@ -3,9 +3,9 @@
 ## 一、基本应用的功能
 ### 1、新建笔记
 （1）在主界面点击红色矩形所示按钮，新建笔记并进入编辑界面
-![图片1](images/img1.png)
+
 （2）进入笔记编辑界面后，可进行笔记标题和内容的输入以及笔记类别的选择
-![图片2](images/img2.png)
+<img width="511" height="977" alt="img1" src="https://github.com/user-attachments/assets/602d5763-1a6d-4917-abc7-ca51ce736a62" />
 （3）输入笔记信息后，在编辑界面点击红色矩形所示按钮，便可保存新建的笔记，新建的笔记会显示在主界面上
 ![图片3](images/img3.png)
 ![图片4](images/img4.png)
