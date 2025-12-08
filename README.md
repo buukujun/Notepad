@@ -375,7 +375,7 @@ String selection = null;
 
 <img width="517" height="961" alt="img15" src="https://github.com/user-attachments/assets/2b4526cd-49d6-44fc-a40c-31f131206cc1" />
 
-### （一）添加分类
+### （二）添加分类
 #### 1、功能要求
 不同的笔记可以设置为不同的分类，类别会在列表中显示，可以根据类别进行笔记筛选
 #### 2、实现思路和技术实现
